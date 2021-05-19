@@ -1,0 +1,13 @@
+
+dependencies {
+    implementation fileTree(include: ['*.jar'],   dir: 'libs')
+
+    implementation   files("libs/vivo_pushsdk_v3.0.0.0_480.aar")
+}
+android {
+    repositories {
+        flatDir {
+            dirs 'libs'
+        }
+    }
+}

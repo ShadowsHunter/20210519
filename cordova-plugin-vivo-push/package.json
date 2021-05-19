@@ -1,0 +1,17 @@
+{
+  "name": "com.shadowhunter.push.vivo",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "com.shadowhunter.push.vivo",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "hunter.gan",
+  "license": "ISC"
+}
