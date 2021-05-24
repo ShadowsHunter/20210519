@@ -1,9 +1,9 @@
 {
-  "name": "com.shadowhunter.push.vivo",
-  "version": "0.0.1",
+  "name": "cordova-plugin-vivo-push",
+  "version": "0.0.2",
   "description": "",
   "cordova": {
-    "id": "com.shadowhunter.push.vivo",
+    "id": "cordova-plugin-vivo-push",
     "platforms": [
       "android"
     ]
